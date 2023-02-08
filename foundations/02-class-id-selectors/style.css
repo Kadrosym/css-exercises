@@ -1,0 +1,19 @@
+.Red {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+
+}
+
+.Red#enlarged-font {
+    font-size: 24px;
+}
+
+.Blue-Enlarged {
+    color: blue;font-size: 36px;
+}
+
+.Green-bold {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
